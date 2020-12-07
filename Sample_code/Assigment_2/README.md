@@ -1,6 +1,8 @@
 # Diffie-Hellman
 #### Assigement statement: Implement the Diffie-Hellman Key Exchange mechanism using HTML and JavaScript. Consider the end user as one of the parties (Alice) and the JavaScript application as other party (bob). 
-The c code is provided here and the HTML and JavaScript code may be refered from [this git repo](https://github.com/rizkiarm/Diffie-Hellman) for your file you copy " rizkiarm/Diffie-Hellman  repo" code and run the code as per instruction given in the repo.
+The c code is provided [here](https://github.com/ROHITKUCHERIA/Cyber-security)
+
+##### the HTML and JavaScript code may be refered from [this git repo](https://github.com/rizkiarm/Diffie-Hellman) for your file you copy " rizkiarm/Diffie-Hellman  repo" code and run the code as per instruction given in the repo.
 
 
 
