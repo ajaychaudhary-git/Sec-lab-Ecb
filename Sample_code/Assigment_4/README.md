@@ -9,7 +9,7 @@
 3. Open wireshark.
 4. select network interfrence you want to capture.
 ![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/Network_interfrence.png)
-5. Start capturing the packets
+5. Start capturing the packets you can observe as shown below that capturing is going on onslected network interfrence.
 ![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/capturing.png)
 6. ONce capturing start wireshark captue all packets passing through the selected network interfrence.
 ![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/capturing_in_progress.png)
