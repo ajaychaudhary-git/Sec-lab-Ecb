@@ -1,5 +1,5 @@
 # Ceaser Cipher and Rail fence cipher
-## Assigement statement: Implement the following Substitution & Transposition Techniques concepts:a) Caesar Cipher b) Rail fence row & Column Transformation
+#### Assigement statement: Implement the following Substitution & Transposition Techniques concepts:a) Caesar Cipher b) Rail fence row & Column Transformation
 
 ### For more details on implementation you may refer:
  For more details on implementation you may visit codeproject page of Classical Encryption Techniques by [Clicking here] https://www.codeproject.com/Articles/63432/Classical-Encryption-Techniques. 
