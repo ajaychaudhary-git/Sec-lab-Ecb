@@ -9,10 +9,11 @@
 3. Open wireshark.
 4. select network interfrence you want to capture.
 ![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/Network_interfrence.png)
+5. Start capturing the packets
+![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/capturing.png)
+6. ONce capturing start wireshark captue all packets passing through the selected network interfrence.
+![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/capturing_in_progress.png)
+7. Click on any packet and see the content of packet and filter based on UDP or TCP protocol.
 
-
-##### The code for dictionary attack may be taken ["npapernot/dictionary-attack repo"](https://github.com/npapernot/dictionary-attack) or your file you copy "npapernot/dictionary-attack repo" code and run the code as per instruction given in the repo.
-
-##### The code for  Brute Force Attack may be taken ["taeguk/web-brute-using-c-in-linux repo"](https://github.com/taeguk/web-brute-using-c-in-linux) or your file you copy "taeguk/web-brute-using-c-in-linux repo" code and run the code as per instruction given in the repo.
+## In your file write all steps, paste various snapshot of capturing and write you observation on UDP or TCP payload.
  
-### You may visit respective repositories for details.
