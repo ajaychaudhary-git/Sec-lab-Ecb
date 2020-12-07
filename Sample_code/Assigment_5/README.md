@@ -1,6 +1,6 @@
 #  Installation of rootkits and study about the variety of options.
 #### Assigement statement: Installation of rootkits and study about the variety of options.
-# Note you can run this experiment on virtual machine, it is reccomneded as playing with code won't distrub your main machine.
+# Note you can run this experiment on virtual machine, it is reccomneded as playing with code won't affect your laptop.
 ## Steps 
 1: Download Rootkit Tool from GMER website www.gmer.net.
 
