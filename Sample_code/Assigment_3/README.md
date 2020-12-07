@@ -1,4 +1,4 @@
-#  Implement the following Attack: a) Dictionary Attack b) Brute Force Attack
+#  Implement the a) Dictionary Attack b) Brute Force Attack 
 #### Assigement statement: Implement the following Attack: a) Dictionary Attack b) Brute Force Attack
 
 The c code is provided here and the HTML and JavaScript code may be refered from [this git repo](https://github.com/rizkiarm/Diffie-Hellman) for your file you copy " rizkiarm/Diffie-Hellman  repo" code and run the code as per instruction given in the repo.
