@@ -8,7 +8,7 @@
 
 
 
-For documentation and implimentation details about ARM positioning you may visit:
+For documentation and implimentation details about ARP positioning you may visit:
 
 1. https://www.tutorialspoint.com/ethical_hacking/ethical_hacking_arp_poisoning.htm
 
