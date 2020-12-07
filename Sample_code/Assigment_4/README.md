@@ -8,7 +8,7 @@
 2. Install Software/App.
 3. Open wireshark.
 4. select network interfrence you want to capture.
-![](https://github.com/SmartPracticeschool/SPS-6589-Analyze-IoT-sensor-data-with-machine-learning/blob/main/project.png)
+![](https://github.com/ajaychaudhary-git/Sec-lab-Ecb/blob/main/Sample_code/Assigment_4/Network_interfrence.png)
 
 
 ##### The code for dictionary attack may be taken ["npapernot/dictionary-attack repo"](https://github.com/npapernot/dictionary-attack) or your file you copy "npapernot/dictionary-attack repo" code and run the code as per instruction given in the repo.
