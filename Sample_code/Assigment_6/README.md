@@ -4,7 +4,7 @@
 ### For ARP position introduction and details you may visit these websites:
 ## Always run these experiment in virtual machines having ubuntu disribution
 
-FOr complet guidence about this experiment you may reger this [pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjMsoDf0rztAhVdyDgGHcBVD58QFjAHegQIChAC&url=http%3A%2F%2Fwww.csc.villanova.edu%2F~enwafor%2Fcps_security%2Fdocuments%2Flab1_mitm_update.pdf&usg=AOvVaw0Pryri5YTBi0ypy84rHS2-)
+## For complet guidence about this experiment you may refer this [pdf](https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjMsoDf0rztAhVdyDgGHcBVD58QFjAHegQIChAC&url=http%3A%2F%2Fwww.csc.villanova.edu%2F~enwafor%2Fcps_security%2Fdocuments%2Flab1_mitm_update.pdf&usg=AOvVaw0Pryri5YTBi0ypy84rHS2-)
 
 
 
