@@ -4,6 +4,7 @@
 ## Steps 
 1: Download Rootkit Tool from GMER website www.gmer.net.
 2: Double click on the GMER rootkit application.
+
 #### for process and files
 3: This displays the Processes, Modules, Services, Files, Registry, RootKit/Malwares, Autostart, CMD of local host.
 4: Select Processes menu and kill any unwanted process if any.
